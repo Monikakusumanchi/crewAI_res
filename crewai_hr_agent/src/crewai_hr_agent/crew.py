@@ -18,8 +18,16 @@ class CrewaiHrAgent():
 
     def __init__(self) -> None:
         """Sample resume PDF for testing from https://www.hbs.edu/doctoral/Documents/job-market/CV_Mohan.pdf"""
-        self.resume_pdf = PDFKnowledgeSource(file_paths="CV_Mohan.pdf")
+        self.resume_pdf = PDFKnowledgeSource(file_paths="MonikaGenai.pdf")
 
+    # @agent
+    # def job_search(self) -> Agent:
+    #     return Agent(
+    #         config=self.agent_config['job_search'],
+    #         verbose=True,
+    #         llm=LLM("gpt-40-mini"),
+    #         knowledge_sources=[self.resume_pdf]
+    #     )
     @agent
     def resume_analyzer(self) -> Agent:
         return Agent(

@@ -1,3 +1,11 @@
+# job_search:
+#   role: "Job Search Expert"
+#   goal: "Analyze resume and get job links"
+#   backstory: >
+#     Based on the resume find the jobs relavent to the candidate use the job posting URL
+#     get the top 10 job posting URL's and which are more relavent to candidate resume 
+    
+
 resume_analyzer:
   role: "Resume Optimization Expert"
   goal: "Analyze resumes and provide structured optimization suggestions"

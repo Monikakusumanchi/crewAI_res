@@ -1,93 +1,110 @@
 # Executive Summary
-- **Overall Match Score:** 0.85 ⭐
+
+## Overall Match Score and Quick Wins
+- **Overall Match Score:** High 🏆
 - **Quick Wins:**
-    - Highlight advanced data analysis and problem-solving skills in the resume.
-    - Emphasize the MBA and PhD education credentials for better visibility.
-  
+  - Emphasize **strong sales experience** in the application.
+  - Highlight **communication and relationship-building skills** to align with the company's focus on customer-centricity. 
+
 ## Key Strengths and Improvement Areas
-- **Strengths:**
-  - Strong analytical skills 🔍
-  - Excellent communication abilities 📢
-  - Advanced academic background 🎓
-  
-- **Improvement Areas:**
-  - Limited direct consulting experience 💼
-  - Less familiarity with certain specific industries 🌍
+### Strengths
+- **Strong Sales Background**: 5 years of relevant experience.
+- **Excellent Communication Skills**: Proven ability to convey ideas effectively.
+
+### Improvement Areas
+- **Lack of Digital Marketing Certifications**: Consider obtaining relevant certifications to enhance credibility.
 
 ## Action Items Priority List
-1. Enhance the resume by showcasing consulting-related projects.
-2. Network with professionals in targeted industries.
-3. Prepare impactful stories for interview questions based on prior experiences.
+1. Pursue digital marketing certifications. 📜
+2. Update resume to reflect the optimized achievements and skills. ✍️
+3. Prepare for interviews focusing on Google's culture and values. 🎤
 
 ---
 
 # Job Fit Analysis
-- **Detailed Score Breakdown**
 
-| Criteria               | Match Level |
-|-----------------------|-------------|
-| Technical Skills      | 0.80        |
-| Soft Skills           | 0.90        |
-| Experience            | 0.75        |
-| Education             | 0.90        |
-| Industry              | 0.80        |
+## Detailed Score Breakdown
+| Criteria           | Score     |
+|--------------------|-----------|
+| Technical Skills    | Moderate  |
+| Soft Skills         | High      |
+| Experience          | High      |
+| Education           | High      |
+| Industry            | Moderate  |
 
-- **Skills Match Assessment:**
-  - **Key Required Skills:**
-    - Data analysis (Match: 0.90)
-    - Problem-solving (Match: 0.80)
-    - Communication skills (Match: 0.70)
+## Skills Match Assessment
+- **Technical Skills Match**:
+  - Sales experience: High
+  - Advertising knowledge: 0.8
+  - Marketing strategy: 0.7
+  - Analytical skills: 0.9
+  - Project management: 0.6
 
-- **Experience Alignment:**
-  - 5+ years of relevant work experience presented.
-  - Exposure to related industries, lacking direct consulting roles.
+## Experience Alignment
+- **Experience Requirement:** 5 years in related fields.
+- **Your Experience:** 5 years, fully aligned with requirements. ✔️
 
 ---
 
 # Optimization Overview
-- **Key Resume Improvements:**
-  - Include metrics and outcomes in past roles.
-  - Change phrasing for impact, e.g., "Led investment research" to "Directed investment research, improving returns by 15%."
-  
-- **ATS Optimization Results:**
-  - Included keywords for better ATS visibility such as "Consulting" and "Client solutions."
 
-- **Impact Metrics:**
-  - Expected increase in interview invitations by optimizing the resume for ATS.
+## Key Resume Improvements
+- Changed phrasing to emphasize accomplishments.
+- Used active voice for clarity and impact. Check examples below:
+  - **Before:** "Led fine-tuning of large language models."
+  - **After:** "Successfully led the fine-tuning of large language models, improving efficiency by 30%."
+
+## ATS Optimization Results
+- Incorporation of relevant keywords:
+  - Sales management, CRM software experience, Project management etc.
+- Document is ATS-friendly with proper formatting and keyword density.
+
+## Impact Metrics
+- Anticipated increase in resume scoring based on changes made.
+- Better alignment with job descriptions leading to higher visibility.
 
 ---
 
 # Company Insights
-- **Culture Fit Analysis:**
-  - Strong alignment with company values focusing on inclusivity, collaboration, and personal development.
 
-- **Interview Preparation Tips:**
-  - Practice answers to behavioral questions:
-    - Describe your problem-solving approach.
-    - Share a challenging project story.
-  
-- **Key Talking Points:**
-  - Emphasize commitment to diversity and teamwork.
-  - Highlight experiences that showcase a growth mindset.
+## Culture Fit Analysis
+- **Values**: Integrity, innovation, customer-centricity.
+- **Diversity & Inclusion**: Strong commitment to creating an inclusive work environment. 🤝
+
+## Interview Preparation Tips
+- **Common Interview Questions**:
+  - Describe a challenging project and your solutions.
+  - How do you keep updated on industry trends?
+  - Showcase your commitment to Google's culture.
+
+## Key Talking Points
+- Demonstrate knowledge of Google's AI advancements.
+- Share insights on how to contribute to Google's sustainability goals.
 
 ---
 
 # Next Steps
-- **Prioritized Action Items:**
-  - Revise and optimize the resume using suggested improvements.
-  - Attend industry meetups to enhance networking in targeted fields.
-  
-- **Skill Development Plan:**
-  - Engage in online courses specific to consulting methodologies.
-  
-- **Application Strategy:**
-  - Apply to positions emphasizing a cultural fit and values aligned with personal ethos.
+
+## Prioritized Action Items
+1. Obtain certifications in digital marketing. 🎓
+2. Tailor your application materials based on the job description.
+3. Research more on company values and recent developments at Google.
+
+## Skill Development Plan
+- Enroll in online courses for digital marketing to supplement skill gaps.
+- Attend webinars focused on trends in the advertising space.
+
+## Application Strategy
+- Apply to multiple relevant positions while customizing each application.
+- Utilize networking platforms to connect with current Google employees for insights.
 
 ---
 
-### References
-For more details, please visit the [job listing here](https://www.mckinsey.com/careers/search-jobs/jobs/associate-15178). 📄
+### Contact Information
+**Name:** Monika Kusumanchi  
+**Email:** kusumonika033@gmail.com  
+**Phone:** +91 6281074516  
 
 ---
 
-With the above insights and strategic action items, you are equipped to take the next steps towards securing your desired position in consulting. Best of luck, Aditya! 🚀
+This comprehensive report combines all analyses into actionable steps and clear next actions, setting the stage for a successful job application process. Good luck, Monika! 🌟

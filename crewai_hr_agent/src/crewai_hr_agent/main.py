@@ -18,8 +18,8 @@ def run():
     Run the crew.
     """
     inputs = {
-        'job_url': 'https://www.mckinsey.com/careers/search-jobs/jobs/associate-15178',
-        'company_name': 'Mckinsey & Co.'
+        'job_url': 'https://www.google.com/about/careers/applications/jobs/results/116221099686929094-account-executive-midmarket-sales-google-customer-solutions',
+        'company_name': 'Google'
     }
     
     try:
